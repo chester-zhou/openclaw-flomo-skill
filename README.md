@@ -21,6 +21,18 @@
 2. 生成 1 个 AI 开放性追问（引导深度思考）
 3. **通过微信 clawbot 推送**，让回顾在你最自然的场景里出现
 
+## 跨平台数据互通：OpenClaw + Claude Code
+
+此 skill 与 **Claude Code 的 memo skill** 共用同一个本地数据文件。
+
+这意味着：
+
+- 在 OpenClaw 里记录的笔记，可以直接在 Claude Code 里搜索和回顾
+- 在 Claude Code 里记录的笔记，同样会出现在 OpenClaw 的随机回顾里
+- 数据格式统一，无需同步，无需账号，完全本地
+
+> 如果你同时使用 OpenClaw 和 Claude Code，两个平台的笔记天然合并为一个知识库。
+
 ## 数据文件
 
 笔记存储在本地 Markdown 文件（路径可自定义）：
@@ -41,10 +53,10 @@ git clone https://github.com/chester-zhou/openclaw-flomo-skill.git ~/.openclaw/w
 
 重启 OpenClaw 即可使用。
 
-## 与 Claude Code 共用数据
-
-此 skill 与 Claude Code 的 memo skill 共用同一数据文件，可在 OpenClaw 和 Claude Code 两端无缝记录与检索。
-
 ## License
 
 MIT
+
+---
+
+If this helps you, consider giving it a ⭐
