@@ -7,7 +7,7 @@ metadata: {"clawdbot":{"emoji":"📝","requires":{} }}
 
 # Memo Skill
 
-本地轻量笔记，数据文件：`~/Documents/hub/areas/personal/memos.md`（路径可自定义）
+本地轻量笔记，数据文件：`~/Documents/hub/areas/personal/memos.md`
 
 ## 命令路由
 
