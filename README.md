@@ -2,6 +2,8 @@
 
 轻量 flomo 风格笔记 Skill for OpenClaw。快速记录想法、搜索回顾。
 
+![demo](demo.gif)
+
 ## 功能
 
 | 触发词 | 动作 |
