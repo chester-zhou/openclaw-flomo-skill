@@ -13,7 +13,7 @@
 
 ## 数据文件
 
-笔记存储在：`~/Documents/hub/areas/personal/memos.md`
+笔记存储在：本地路径（可自定义，默认指向个人知识库）
 
 格式：
 
