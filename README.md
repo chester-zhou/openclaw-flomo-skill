@@ -37,7 +37,7 @@ git clone https://github.com/chester-zhou/openclaw-flomo-skill.git ~/.openclaw/w
 
 ## 与 Claude Code 共用数据
 
-此 skill 与 [claude-memo](https://github.com/chester-zhou/claude-memo) 共用同一个数据文件，可在两个平台上无缝记录与检索。
+此 skill 与 Claude Code 的 memo skill 共用同一个数据文件，可同时在 OpenClaw 和 Claude Code 两个平台上记录与检索笔记。
 
 ## License
 
